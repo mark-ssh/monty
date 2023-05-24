@@ -1,5 +1,5 @@
 <h1>0x19. C - Stacks, Queues - LIFO, FIFO</h1>
-<h3>This is a Alx project given to us to enable us put what we have learnt on ata structures and algorithm into practice.</h3>
+<h3>This is a Alx project given to us to enable us put what we have learnt on data structures and algorithm into practice.</h3>
 
 
 <h2>Requirements</h2>
